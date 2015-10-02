@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>
-using namespace std;
+
 struct bst{
     int n;
     int height;
